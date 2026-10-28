@@ -1,5 +1,7 @@
 # React Code Lab (CSIS 3380, Modules 4–7)
 
+https://johnnylin707.github.io/csis-3380-react-code-lab-zh-CN/
+
 Ten auto-graded React activities built on the course case studies (Movie Night and Alex's Café).
 Students write JSX (`app.js`) or HTML in the browser, see it render, submit, and get a score, an
 explanation of every mistake, and the proper code side by side. Progress stays in the browser.
